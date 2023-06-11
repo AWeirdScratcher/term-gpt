@@ -7,6 +7,14 @@ You can install this project via pip, registered as `term-chatgpt`:
 $ pip install term-chatgpt
 ```
 
+### Requirements
+- Python `>=3.10` (`match`, `case` syntax)
+- Required packages
+  - rich
+  - textual
+  - requests
+  - questionary
+
 ## Quick Start
 You can start an instance with:
 ```bash
